@@ -1,4 +1,7 @@
 {
-  "current_key": "329d75d0c68c03805e5cb25357a5a9be",
+  "current_key": {
+    "key": "e99bff97237f4d1a81d6dd9084fe1d33",
+    "expiresAt": 1761421884
+  },
   "expires_at_unix_ms": 1761421424012
 }
