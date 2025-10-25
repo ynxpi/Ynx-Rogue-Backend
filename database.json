@@ -1,15 +1,4 @@
 {
-  "email_verifications": {},
-  "user_keys": {
-    "7981c177d3ac552ae9f4e538703bd95e": {
-      "email": "ynxcloud@gmail.com",
-      "displayName": "ynx",
-      "issuedAt": 1761366995867
-    },
-    "90c8488da9232482786350ec9cf260dd": {
-      "email": "yinxthebot@gmail.com",
-      "displayName": "yr",
-      "issuedAt": 1761367658024
-    }
-  }
+  "current_key": "abc123...",
+  "expires_at_unix_ms": 169xxx
 }
